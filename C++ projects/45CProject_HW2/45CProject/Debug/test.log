@@ -1,0 +1,17 @@
+﻿Build started 2/24/2015 1:12:08 PM.
+     1>Project "C:\Users\Thanh\Documents\All in UCI\Winter 2015\ICS 45C\45CProject_HW2\45CProject\test.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (45CProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(25): error C2065: 'T' : undeclared identifier
+     1>main.cpp(25): error C2923: 'std::vector' : 'T' is not a valid template type argument for parameter '_Ty'
+     1>main.cpp(26): error C2065: 'v' : undeclared identifier
+     1>main.cpp(26): error C2228: left of '.size' must have class/struct/union
+                 type is 'unknown-type'
+     1>main.cpp(27): error C2065: 'v' : undeclared identifier
+     1>Done Building Project "C:\Users\Thanh\Documents\All in UCI\Winter 2015\ICS 45C\45CProject_HW2\45CProject\test.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.03

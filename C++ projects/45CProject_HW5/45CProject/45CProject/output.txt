@@ -1,0 +1,140 @@
+AK: Alaska Pacific University
+AL: Auburn University of Alabama, Birmingham
+AL: University of South Alabama
+AR: Arkansas State University
+AZ: Grand Canyon University
+AZ: University of Arizona
+CA: California State University, Pomona
+CA: Stanford University
+CA: University of California, Irvine
+CA: University of California, San Diego
+CO: University of Denver
+CT: Hartford University
+CT: Yale University
+DE: Wilmington University
+FL: Florida Institute of Technology
+FL: University of Miami
+GA: Georgia Institute of Technology
+HI: Hawaii Pacific University
+IA: University of Iowa
+ID: Boise State University
+ID: University of Idaho
+IL: Aurora University
+IN: Purdue University
+IN: University of Indianapolis
+KS: Kansas State University
+KY: University of Kentucky
+LA: University of Louisiana, New Orleans
+MA: Boston College
+MA: Massachusetts Institute of Technology
+MD: John Hopkins University
+MD: Washington College
+ME: Unity College
+ME: University of Maine, Augusta
+MI: Kalamazoo College
+MN: University of Saint Thomas
+MO: Missouri State University
+MO: University of Central Missouri
+MS: University of Mississippi
+MT: Rocky Mountain College
+NC: Duke University
+ND: University of Jamestown
+NE: Creighton University
+NE: University of Nebraska, Omaha
+NH: Plymouth State University
+NJ: New Jersey Institute of Technology
+NM: University of New Mexico
+NV: University of Nevada, Las Vegas
+NY: New York University
+NY: State University of New York, Stonybrook
+NY: The Julliard School
+OH: Cleveland Institute of Music
+OH: University of Dayton
+OK: University of Tulsa
+OR: Oregon State University
+OR: Pacific University
+PA: Temple University
+RI: Brown University
+SC: Medical University of South Carolina
+SD: South Dakota State University
+TN: University of Memphis
+TX: University of Texas, Austin
+TX: University of Texas, El Paso
+UT: Brigham Young University
+VA: Virginia State University
+VT: Burlington College
+WA: Seattle Pacific University
+WI: Mount Mary University
+WI: University of Wisconsin, Green Bay
+WV: University of Charleston
+WY: University of Wyoming
+AK: Alaska Pacific University
+AL: Auburn University of Alabama, Birmingham
+AL: University of South Alabama
+AR: Arkansas State University
+AZ: Grand Canyon University
+AZ: University of Arizona
+CA: California State University, Pomona
+CA: Stanford University
+CA: University of California, Irvine
+CA: University of California, San Diego
+CO: University of Denver
+CT: Hartford University
+CT: Yale University
+DE: Wilmington University
+FL: Florida Institute of Technology
+FL: University of Miami
+GA: Georgia Institute of Technology
+HI: Hawaii Pacific University
+IA: University of Iowa
+ID: Boise State University
+ID: University of Idaho
+IL: Aurora University
+IN: Purdue University
+IN: University of Indianapolis
+KS: Kansas State University
+KY: University of Kentucky
+LA: University of Louisiana, New Orleans
+MA: Boston College
+MA: Massachusetts Institute of Technology
+MD: John Hopkins University
+MD: Washington College
+ME: Unity College
+ME: University of Maine, Augusta
+MI: Kalamazoo College
+MN: University of Saint Thomas
+MO: Missouri State University
+MO: University of Central Missouri
+MS: University of Mississippi
+MT: Rocky Mountain College
+NC: Duke University
+ND: University of Jamestown
+NE: Creighton University
+NE: University of Nebraska, Omaha
+NH: Plymouth State University
+NJ: New Jersey Institute of Technology
+NM: University of New Mexico
+NV: University of Nevada, Las Vegas
+NY: New York University
+NY: State University of New York, Stonybrook
+NY: The Julliard School
+OH: Cleveland Institute of Music
+OH: University of Dayton
+OK: University of Tulsa
+OR: Oregon State University
+OR: Pacific University
+PA: Temple University
+RI: Brown University
+SC: Medical University of South Carolina
+SD: South Dakota State University
+TN: University of Memphis
+TX: University of Texas, Austin
+TX: University of Texas, El Paso
+UT: Brigham Young University
+VA: Virginia State University
+VT: Burlington College
+WA: Seattle Pacific University
+WI: Mount Mary University
+WI: University of Wisconsin, Green Bay
+WV: University of Charleston
+WY: University of Wyoming

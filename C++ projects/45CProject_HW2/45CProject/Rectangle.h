@@ -1,0 +1,1 @@
+int area_rectangle(int length, int width);

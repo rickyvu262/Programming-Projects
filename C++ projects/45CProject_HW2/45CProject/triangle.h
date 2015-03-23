@@ -1,0 +1,1 @@
+float area_triangle(int base, int height);

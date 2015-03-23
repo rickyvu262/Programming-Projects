@@ -1,0 +1,70 @@
+MD;Washington College
+AR;Arkansas State University
+NY;State University of New York, Stonybrook
+WY;University of Wyoming
+MA;Massachusetts Institute of Technology
+AZ;Grand Canyon University
+MD;John Hopkins University
+WI;University of Wisconsin, Green Bay
+CO;University of Denver
+FL;University of Miami
+CA;University of California, Irvine
+CA;University of California, San Diego
+CA;California State University, Pomona
+NE;University of Nebraska, Omaha
+MN;University of Saint Thomas
+CT;Hartford University
+DE;Wilmington University
+FL;Florida Institute of Technology
+AK;Alaska Pacific University
+GA;Georgia Institute of Technology
+SD;South Dakota State University
+HI;Hawaii Pacific University
+ID;Boise State University
+IN;University of Indianapolis
+AL;University of South Alabama
+CT;Yale University
+IA;University of Iowa
+ME;Unity College
+KS;Kansas State University
+LA;University of Louisiana, New Orleans
+MA;Boston College
+IL;Aurora University
+AL;Auburn University of Alabama, Birmingham
+MI;Kalamazoo College
+IN;Purdue University
+MS;University of Mississippi
+OR;Pacific University
+CA;Stanford University
+ME;University of Maine, Augusta
+AZ;University of Arizona
+NJ;New Jersey Institute of Technology
+MO;Missouri State University
+MT;Rocky Mountain College
+NV;University of Nevada, Las Vegas
+ID;University of Idaho
+OR;Oregon State University
+NH;Plymouth State University
+WI;Mount Mary University
+NY;The Julliard School
+TX;University of Texas, El Paso
+ND;University of Jamestown
+WA;Seattle Pacific University
+OH;Cleveland Institute of Music
+PA;Temple University
+RI;Brown University
+SC;Medical University of South Carolina
+OH;University of Dayton
+TX;University of Texas, Austin
+KY;University of Kentucky
+NC;Duke University
+UT;Brigham Young University
+MO;University of Central Missouri
+VT;Burlington College
+VA;Virginia State University
+NM;University of New Mexico
+NY;New York University
+WV;University of Charleston
+OK;University of Tulsa
+NE;Creighton University
+TN;University of Memphis
